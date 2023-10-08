@@ -2,7 +2,7 @@
 
 # Applied Data Science Capstone
 
-![Course Logo]([link_to_course_logo.png](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=1&w=&h=45))
+![Course Logo](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/c0/87a10033a311e892619b85c6fd62bb/IBM-200x48.png?auto=format%2Ccompress&dpr=1&w=&h=45)
 
 **Course Name:** Applied Data Science Capstone
 
@@ -45,4 +45,4 @@ In this capstone project, I worked on [briefly describe your project]. The goal 
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/data-science-capstone.git
+   git clone https://github.com/ganeshs14/AppliedDSCapstone.git
