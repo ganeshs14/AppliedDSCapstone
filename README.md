@@ -38,7 +38,7 @@ All models achieved an accuracy rate of approximately `83.33%`.
 
 ## Key Deliverables
 
-> [**Presentation Slides**](link_to_presentation.pdf)
+> [**Report & Presentation**](https://drive.google.com/file/d/1vASY9n132t7MrB9sR_myjEJ05YuL5twG/view?usp=drive_link)
 
 
 ## Tools and Technologies
